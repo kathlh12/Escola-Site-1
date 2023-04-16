@@ -5,6 +5,12 @@ padding: 0;
 
 }
 
+body{
+  font-family: 'Poppins', sans-serif;
+
+
+}
+
 .cabecalho
 {
   background-color: #2d1f36;
@@ -46,6 +52,21 @@ padding: 0;
 }
 .escola-titulo{
   padding: 24px 0;
+}
+
+.imagem-estudante{
+
+  width: 129px;
+
+}
+
+.estudante-icone{
+
+  width: 24px;
+}
+.estudante-div{
+text-align: center;
+
 }
 
 

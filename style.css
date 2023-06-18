@@ -13,84 +13,107 @@ body{
 
 .cabecalho
 {
-  background-color: #2d1f36;
-  color: rgb(255, 255, 255);  
+  background-color: #f7ecbb;
+  color: rgba(20, 12, 0, 0.945);  
   display: flex;  
   justify-content: space-around;
   align-items: center;
-  padding: 20px 0;
+  padding: -60px 0;
 
 }
 
 .cabecalho-imagem{
-    width: 29%;
+    width: 18%;
 }
 
 .cabecalho-lista-item{
   display: inline-block;
-  margin: 0 16px;
-  font-size: 24px; 
+    margin: 0 66px;
+  font-size: 34px; 
 
 }
 
-.escola-imagem{
+.anime-um{
 
-  width: 33%;
+  width: 18%; 
 
 }
-.escola{
-  background-image: linear-gradient(#2d1f36, #8c68a3);
-  color: white;
+.anime{
+  background-image: linear-gradient(#ebbc7eef, #4b066b48);
+  color: rgba(5, 0, 0, 0.705);
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  padding: 28px 0;
+}
+.anime-primeiro{
+  background-color:#f3dda2cb;
+  color: rgba(20, 12, 0, 0.849);
+   display:flex;
+  justify-content: center;
+  align-items: center;
+  padding: 28px 0;
+}
+
+.anime-dois{
+
+  width: 18%; 
+
+}
+
+.anime-segundo{
+  background-color: #f3dda2cb; 
+  color: rgba(5, 0, 0, 0.753);
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  padding: 85px 0;
+}
+
+.anime-tres{
+
+  width: 18%; 
+
+}
+
+.anime-terceiro{
+  background-color: #f3dda2cb;
+  color: rgba(5, 0, 0, 0.877);
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  padding: 85px 0;
+}
+
+.anime-quarto{
+  background-color: #f3dda2cb;
+  color: rgba(5, 0, 0, 0.877);
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  padding: 85px 0;
+}
+.anime-quinto{
+  background-image: linear-gradient(#f3dda2cb, #bc9578f3);
+  color: rgba(5, 0, 0, 0.705);
   display:flex;
   justify-content: center;
   align-items: center;
   padding: 28px 0;
 }
 
-.escola-div-conteudo{
-  width: 35%;
-}
-.escola-titulo{
-  padding: 24px 0;
-}
 
-.imagem-estudante{
 
-  width: 129px;
-
-}
-
-.estudante-icone{
-
-  width: 24px;
-}
-.estudante-div{
-text-align: center;
-
-}
-
-.estudante-titulo{
- text-align: center;
- padding: 50px 0;
-
-}
-
-.estudante-todos{
-
-  display: grid;
-  grid-template-columns: 20% 20% 20% 20% 20%;
-
-}
 
 .rodape{
-  background-color: #2d1f36;
+  background-color: #bc9578;
   text-align: center;
 }
 
 .rodape-imagem{
 
-  height: 70px;
-  padding: 12px 0;
+  height: 100px;
+  padding: -30px 0;
 
 }
 
